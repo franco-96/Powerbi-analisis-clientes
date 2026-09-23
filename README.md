@@ -2,7 +2,7 @@
 Análisis demográfico y segmentación de clientes con Power BI y Excel.
 # 📊 Análisis Demográfico y Segmentación de Clientes
 
-![Dashboard de Clientes](dashboard_clientes.png)
+![Dashboard de Clientes](Captura%20de%20pantalla%202026-09-23%20151711.png)
 
 ## 📌 Contexto del Proyecto
 Este proyecto forma parte de un análisis exploratorio y estratégico para el departamento de Marketing. El objetivo principal es identificar el **Perfil de Cliente Ideal (ICP)** a partir de una base de datos de 999 registros, evaluando la distribución geográfica, la estructura de edad y las tendencias de adquisición a lo largo del tiempo para optimizar el gasto de campañas publicitarias.
